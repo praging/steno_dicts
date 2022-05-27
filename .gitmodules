@@ -1,0 +1,15 @@
+[submodule "paulfioravanti"]
+	path = paulfioravanti
+	url = https://github.com/paulfioravanti/steno-dictionaries.git
+[submodule "EPLHREU"]
+	path = EPLHREU
+	url = https://github.com/EPLHREU/emily-symbols.git
+[submodule "morinted"]
+	path = morinted
+	url = https://github.com/morinted/steno_dictionary.git
+[submodule "CharleyShattuck"]
+	path = CharleyShattuck
+	url = https://github.com/CharleyShattuck/Plover-Dictionaries.git
+[submodule "aerickt"]
+	path = aerickt
+	url = https://github.com/aerickt/steno-dictionaries.git
