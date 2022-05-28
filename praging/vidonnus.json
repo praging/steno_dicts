@@ -1,5 +1,6 @@
 {
 "#": "{*+}",
 "R5*U": "{plover:solo_dict:+Raw.py}",
-"RA*U": "{plover:solo_dict:+Raw.py}{`^}"
+"RA*U": "{plover:solo_dict:+Raw.py}{`^}",
+"*": "test"
 }
