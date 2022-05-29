@@ -1,8 +1,8 @@
 [submodule "paulfioravanti"]
 	path = paulfioravanti
 	url = https://github.com/paulfioravanti/steno-dictionaries.git
-[submodule "EPLHREU"]
-	path = EPLHREU
+[submodule "EPLHREU_symbols"]
+	path = EPLHREU_symbols
 	url = https://github.com/EPLHREU/emily-symbols.git
 [submodule "morinted"]
 	path = morinted
