@@ -1,5 +1,5 @@
 {
-"R5*U": "{plover:solo_dict:+Raw.py}",
+"R5*U": "{plover:solo_dict:+steno_dicts/aerickt/raw.py}",
 "TKUPT": "{#Control_L(Shift_L(Left)) Control_L(c) Control_L(Right)} {PLOVER:ADD_TRANSLATION}",
-"RA*U": "{plover:solo_dict:+Raw.py}{`^}"
+"RA*U": "{plover:solo_dict:+steno_dicts/aerickt/raw.py}{`^}"
 }
